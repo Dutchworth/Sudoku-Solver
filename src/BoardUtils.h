@@ -22,7 +22,7 @@ namespace BoardUtils {
  * @param board The board object to be tested
  * @return Boolean of whether the board is complete
  */
-bool isComplete(const Board& board);
+bool boardComplete(const Board& board);
 
 /** @brief Determines whether the given row is complete
  * Iterates through the given row number (0 - 9) and determines if every
