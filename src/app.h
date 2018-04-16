@@ -1,5 +1,5 @@
 /****************************************************************************
- * Copyright (C) 2014, <Copyright Holder>                                   *
+ * Copyright (C) 2018, <Copyright Holder>                                   *
  * All rights reserved                                                      *
  *                                                                          *
  * For the licensing terms see LICENSE file inside the root directory.      *
